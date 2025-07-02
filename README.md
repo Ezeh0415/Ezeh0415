@@ -41,7 +41,7 @@ I’m actively contributing to/open to collaborating on projects involving:
 - 📧 [Email] ezeanwechigozie@gmail.com
 
 ## 💡 Fun Fact
-When I'm not coding, I'm [hobby/interests, e.g., "refreshingmy memory on some programming language","watchinga movie" , " or reading some novels "].
+When I'm not coding, I'm "refreshing my memory on some programming language","watching a movie" , " or reading some novels "
 
 ---
 
