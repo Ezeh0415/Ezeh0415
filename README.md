@@ -33,11 +33,12 @@ I'm a **self-taught frontend developer** with growing full-stack skills. I enjoy
 3. **Space Site** – A responsive space-themed website made with **HTML**, **Tailwind CSS**, and **JavaScript**.  
    🔗 [Live Demo](https://space-project-one.vercel.app/index.html) | 📂 [Repo](https://github.com/Ezeh0415/space-project)
 
-4. **Project Name** – A full-stack app built with the **MERN stack** (MongoDB, Express, React, Node.js).  
-   🔗 [Live Demo](#) | 📂 [Frontend Repo](#) | 📂 [Backend Repo](#)
-
+4. **Novel Management App** – A **full-stack MERN** application for managing novels (CRUD operations, user interaction, and data persistence). Built with **MongoDB**, **Express**, **React**, and **Node.js**.  
+   🔗 [Live Demo](https://front-end-novel.vercel.app/)  
+   📂 [Frontend Repo](https://github.com/Ezeh0415/FrontEndNovel) | 📂 [Backend Repo](https://github.com/Ezeh0415/BackendNovel)
 
 > **More full-stack and backend projects coming soon!**
+
 
 ---
 
