@@ -3,7 +3,7 @@
 Self-taught backend developer focused on Node.js and TypeScript. I build APIs with Express, and I am learning to ship clean, structured services with PostgreSQL, Redis, and RabbitMQ. Currently looking for a remote junior backend or internship role where I can keep building real projects and learn from a team.
 
 - Remote / Nigeria (WAT) - open to remote junior backend and internship opportunities
-- Portfolio: https://2025portfolio-lilac.vercel.app/
+- Portfolio: https://github.com/Ezeh0415/Ezeh0415/blob/main/Resume.pdf
 - LinkedIn: https://www.linkedin.com/in/ezeanwe-chigozie-49b78a260
 
 ## Tech I am building with
@@ -46,7 +46,7 @@ More projects and experiments are on my profile: https://github.com/Ezeh0415?tab
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/ezeanwe-chigozie-49b78a260
-- Portfolio: https://2025portfolio-lilac.vercel.app/
+- Portfolio: https://github.com/Ezeh0415/Ezeh0415/blob/main/Resume.pdf
 - GitHub: https://github.com/Ezeh0415
 
 Please use LinkedIn or GitHub to reach me. I am not listing a personal email here.
