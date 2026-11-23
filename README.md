@@ -1,74 +1,52 @@
-# 👋 Hi, I'm Godwin  
-### Frontend Developer | Learning Full-Stack | Passionate about Clean Code & Responsive Design
+# Hi, I'm Godwin - Backend Developer (learning & building)
 
-**📍 Based in Anambra, Nigeria**  
-**🛠️ Tech Stack:** HTML5 | CSS3 | JavaScript (ES6+) | Tailwind CSS | React.js | Node.js | Express.js | MongoDB | Docker  
+Self-taught backend developer focused on Node.js and TypeScript. I build APIs with Express, and I am learning to ship clean, structured services with PostgreSQL, Redis, and RabbitMQ. Currently looking for a remote junior backend or internship role where I can keep building real projects and learn from a team.
 
-I'm a **self-taught frontend developer** with growing full-stack skills. I enjoy building responsive, accessible, and performant web applications — from **pixel-perfect UIs** to **RESTful APIs**. I'm passionate about turning design mockups into clean, scalable code and continuously learning new tools to become a better engineer.
+- Remote / Nigeria (WAT) - open to remote junior backend and internship opportunities
+- Portfolio: https://2025portfolio-lilac.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/ezeanwe-chigozie-49b78a260
 
----
+## Tech I am building with
 
-## 🔧 Technologies & Tools  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+Backend: Node.js · TypeScript · Express · PostgreSQL · Redis · RabbitMQ  
+Also used earlier in projects: JavaScript · React · MongoDB · Docker  
+Tools: Git · GitHub · VS Code · Postman
 
----
+I list a tool here only when it shows up in my public repos or in work I have done. PostgreSQL and Redis are in my current learning/building stack, so I am still deepening them through projects - not claiming production experience.
 
-## 🚀 Featured Projects
+## Education / Certificate
 
-1. **Dark Cloud Recipe** – A recipe website built with **React** and **Tailwind CSS**.  
-   🔗 [Live Demo](https://recipe-app-qxwr.vercel.app/) | 📂 [Repo](https://github.com/Ezeh0415/Recipe-app)
+- TechyJaunt - Beginner Backend Web Development (Certificate of Completion), Dec 2025 to Mar 2026
 
-2. **De Rich Recipe** – A recipe site built with **HTML**, **Tailwind CSS**, and **JavaScript**.  
-   🔗 [Live Demo](https://de-rich-recipe.vercel.app/) | 📂 [Repo](https://github.com/Ezeh0415/de-rich-recipe)
+No formal degree claimed. My learning is project-based and self-directed, backed by public repos below.
 
-3. **Space Site** – A responsive space-themed website made with **HTML**, **Tailwind CSS**, and **JavaScript**.  
-   🔗 [Live Demo](https://space-project-one.vercel.app/index.html) | 📂 [Repo](https://github.com/Ezeh0415/space-project)
+## Featured backend projects
 
-4. **Novel Management App** – A **full-stack MERN** application for managing novels (CRUD operations, user interaction, and data persistence). Built with **MongoDB**, **Express**, **React**, and **Node.js**.  
-   🔗 [Live Demo](https://front-end-novel.vercel.app/)  
-   📂 [Frontend Repo](https://github.com/Ezeh0415/FrontEndNovel) | 📂 [Backend Repo](https://github.com/Ezeh0415/BackendNovel)
+1. **RabbitMQ + Express (TypeScript)** - experiment repo for messaging patterns with RabbitMQ in an Express/TypeScript app.  
+   Repo: https://github.com/Ezeh0415/RabbitMQ-express
 
-> **More full-stack and backend projects coming soon!**
+2. **Nova Wealth Back-End (TypeScript)** - backend project in TypeScript.  
+   Repo: https://github.com/Ezeh0415/Nova-Wealth-Back-End
 
+3. **TypeScript Todo Backend** - my first TypeScript backend project, focused on structured server code.  
+   Repo: https://github.com/Ezeh0415/Ts_Todo_Project
 
----
+4. **OOP in TypeScript** - practice repo for object-oriented patterns in TypeScript.  
+   Repo: https://github.com/Ezeh0415/OOPTypeScript
 
-## 📌 Currently Learning
-- Advanced React Patterns
-- MongoDB + Mongoose
-- Docker basics & containerized development
+More projects and experiments are on my profile: https://github.com/Ezeh0415?tab=repositories
 
----
+## What I am working on now
 
-## 🌱 Open Source Contributions
-I’m actively contributing to and open to collaborating on:
-- Frontend development projects
-- Full-stack apps (MERN stack)
-- UI component libraries
-- Documentation improvements
+- Building Express + TypeScript APIs with cleaner MVC structure
+- Learning PostgreSQL and Redis through hands-on projects
+- Practicing RabbitMQ queues and messaging patterns
+- Writing clearer READMEs and commit history as I prepare for job applications
 
----
+## Contact
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ezeanwe-chigozie-49b78a260)
-- 📧 Email: [ezeanwechigozie@gmail.com](mailto:ezeanwechigozie@gmail.com)
-- 🐦 Twitter: *(Coming soon)*
+- LinkedIn: https://www.linkedin.com/in/ezeanwe-chigozie-49b78a260
+- Portfolio: https://2025portfolio-lilac.vercel.app/
+- GitHub: https://github.com/Ezeh0415
 
----
-
-## 💡 Fun Fact
-When I'm not coding, I'm usually revisiting a programming concept, watching movies, or reading novels.
-
----
-
-⭐ **Explore more:** Check out my full [Portfolio](https://2025portfolio-lilac.vercel.app/) for additional projects and updates!
- 
+Please use LinkedIn or GitHub to reach me. I am not listing a personal email here.
