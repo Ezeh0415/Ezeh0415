@@ -25,8 +25,8 @@ No formal degree claimed. My learning is project-based and self-directed, backed
 1. **RabbitMQ + Express (TypeScript)** - experiment repo for messaging patterns with RabbitMQ in an Express/TypeScript app.  
    Repo: https://github.com/Ezeh0415/RabbitMQ-express
 
-2. **Easy Lodge (TypeScript)** - backend project in TypeScript.  
-   Repo: https://github.com/EasyLodgeCapstone/Easy-lodge
+2. **Easy Lodge C-backend (NestJS + RabbitMQ)** - API Gateway plus auth, product, cart, dashboard, and payment microservices for a body care store. MongoDB through TypeORM, JWT auth for admin and client users.  
+   Repo: https://github.com/EasyLodgeCapstone/C-backend
 
 3. **TypeScript Todo Backend** - my first TypeScript backend project, focused on structured server code.  
    Repo: https://github.com/Ezeh0415/Ts_Todo_Project
