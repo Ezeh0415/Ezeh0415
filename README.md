@@ -25,8 +25,8 @@ No formal degree claimed. My learning is project-based and self-directed, backed
 1. **RabbitMQ + Express (TypeScript)** - experiment repo for messaging patterns with RabbitMQ in an Express/TypeScript app.  
    Repo: https://github.com/Ezeh0415/RabbitMQ-express
 
-2. **Nova Wealth Back-End (TypeScript)** - backend project in TypeScript.  
-   Repo: https://github.com/Ezeh0415/Nova-Wealth-Back-End
+2. **Easy Lodge (TypeScript)** - backend project in TypeScript.  
+   Repo: https://github.com/EasyLodgeCapstone/Easy-lodge
 
 3. **TypeScript Todo Backend** - my first TypeScript backend project, focused on structured server code.  
    Repo: https://github.com/Ezeh0415/Ts_Todo_Project
