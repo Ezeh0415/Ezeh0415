@@ -9,6 +9,7 @@ Self-taught backend developer focused on Node.js and TypeScript. I build APIs wi
 ## Tech I am building with
 
 Backend: Node.js · TypeScript · Express · PostgreSQL · Redis · RabbitMQ  
+Also used in RabbitMQ-express: Paystack payments · axios · cron  
 Also used earlier in projects: JavaScript · React · MongoDB · Docker  
 Tools: Git · GitHub · VS Code · Postman
 
@@ -22,7 +23,7 @@ No formal degree claimed. My learning is project-based and self-directed, backed
 
 ## Featured backend projects
 
-1. **RabbitMQ + Express (TypeScript)** - experiment repo for messaging patterns with RabbitMQ in an Express/TypeScript app.  
+1. **RabbitMQ + Express (TypeScript)** - Express/TypeScript API using RabbitMQ for product and email queues, plus a Paystack payment module with RabbitMQ RPC (request/reply with `replyTo` + `correlationId`), Redis duplicate protection, and a cron-driven email sender. Uses PostgreSQL with Drizzle ORM. Updated 24 Nov 2026.  
    Repo: https://github.com/Ezeh0415/RabbitMQ-express
 
 2. **Easy Lodge C-backend (NestJS + RabbitMQ)** - API Gateway plus auth, product, cart, dashboard, and payment microservices for a body care store. MongoDB through TypeORM, JWT auth for admin and client users.  
@@ -40,7 +41,7 @@ More projects and experiments are on my profile: https://github.com/Ezeh0415?tab
 
 - Building Express + TypeScript APIs with cleaner MVC structure
 - Learning PostgreSQL and Redis through hands-on projects
-- Practicing RabbitMQ queues and messaging patterns
+- Practicing RabbitMQ queues, RabbitMQ RPC (request/reply), and Paystack payment webhooks
 - Writing clearer READMEs and commit history as I prepare for job applications
 
 ## Contact
